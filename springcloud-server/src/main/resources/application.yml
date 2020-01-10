@@ -2,9 +2,9 @@ server:
   port: 8081
 spring:
   datasource:
-    url: jdbc:mysql://localhost:3306/first?useUnicode=true&characterEncoding=utf-8&serverTimezone=UTC
-    username: root
-    password: liukun
+    url: jdbc:mysql://localhost:3306/tri-oranges?useUnicode=true&characterEncoding=utf-8&serverTimezone=GMT%2B8
+    username: ljj
+    password: ljj
     hikari:
       maximum-pool-size: 20
       minimum-idle: 10
