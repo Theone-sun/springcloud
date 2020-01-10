@@ -7,11 +7,13 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="eureka-server" />
+
         <module name="springcloud" />
         <module name="springcloud_first" />
         <module name="springcloud_consumer" />
         <module name="springcloud-server" />
         <module name="video-server" />
+
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>

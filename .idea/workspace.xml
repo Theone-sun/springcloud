@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4d69b485-5830-45e8-a531-71f669dc3f24" name="Default Changelist" comment="">
+    <list default="true" id="d612ca72-a6c1-4202-92fe-9f326c4eb903" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -15,6 +16,7 @@
         <option value="Interface" />
         <option value="Class" />
         <option value="HTML File" />
+
       </list>
     </option>
   </component>
@@ -24,6 +26,11 @@
         <option name="argument" value="--tags" />
         <option name="title" value="All" />
       </GitPushTagMode>
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="Matthew-Li" />
+        <option value="LiJunjie" />
+      </list>
     </option>
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
@@ -40,6 +47,10 @@
     </option>
   </component>
   <component name="ProjectId" id="1W3RDCLA7VE95Xp7WevWH6sMnwa" />
+  <component name="GithubDefaultAccount">
+    <option name="defaultAccountId" value="8ab97950-024c-4be7-9812-b1c338f48375" />
+  </component>
+  <component name="ProjectId" id="1W3ReIhammoKF7NQyXo4DdGX3zs" />
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
@@ -49,16 +60,19 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RequestMappingsPanelOrder0" value="0" />
     <property name="RequestMappingsPanelOrder1" value="1" />
     <property name="RequestMappingsPanelWidth0" value="75" />
     <property name="RequestMappingsPanelWidth1" value="75" />
+
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../emp_system" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
@@ -76,6 +90,39 @@
     </key>
   </component>
   <component name="RunManager" selected="Spring Boot.VideoServerApplication (1)">
+
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
+  </component>
+  <component name="RunManager" selected="Maven.eureka-server [spring-boot:run]">
+    <configuration name="eureka-server [spring-boot:run]" type="MavenRunConfiguration" factoryName="Maven" nameIsGenerated="true">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="spring-boot:run" />
+              </list>
+            </option>
+            <option name="pomFileName" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$/eureka-server" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
     <configuration name="EurekaServerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <module name="eureka-server" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.dlsp.eurekaserver.EurekaServerApplication" />
@@ -149,6 +196,7 @@
         <item itemvalue="Spring Boot.VideoServerApplication" />
       </list>
     </recent_temporary>
+
   </component>
   <component name="ServiceViewManager">
     <option name="viewStates">
@@ -206,6 +254,37 @@
       <updated>1578634983780</updated>
     </task>
     <option name="localTasksCounter" value="4" />
+
+      <changelist id="d612ca72-a6c1-4202-92fe-9f326c4eb903" name="Default Changelist" comment="" />
+      <created>1578376385904</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1578376385904</updated>
+      <workItem from="1578376387201" duration="1576000" />
+      <workItem from="1578377984056" duration="2228000" />
+      <workItem from="1578383162891" duration="1158000" />
+      <workItem from="1578446653508" duration="2538000" />
+      <workItem from="1578531415613" duration="7433000" />
+      <workItem from="1578618657814" duration="358000" />
+      <workItem from="1578619260289" duration="1110000" />
+      <workItem from="1578620783945" duration="100000" />
+      <workItem from="1578620908581" duration="5612000" />
+    </task>
+    <task id="LOCAL-00001" summary="提交测试">
+      <created>1578624786185</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1578624786185</updated>
+    </task>
+    <task id="LOCAL-00002" summary="提交测试">
+      <created>1578634031471</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1578634031471</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -289,5 +368,58 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="638" y="145" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1578393697521" />
+    <MESSAGE value="提交测试" />
+    <option name="LAST_COMMIT_MESSAGE" value="提交测试" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="137" y="21" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1578383496353">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="137" y="21" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1578383496353" />
+    <state x="488" y="71" key="#com.intellij.ide.util.MemberChooser" timestamp="1578563142110">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="488" y="71" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1578563142110" />
+    <state x="244" y="0" key="CommitChangelistDialog2" timestamp="1578634030718">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="244" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1578634030718" />
+    <state x="463" y="121" key="FileChooserDialogImpl" timestamp="1578390663420">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="121" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1578390663420" />
+    <state width="1322" height="327" key="GridCell.Tab.0.bottom" timestamp="1578634005815">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1322" height="327" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1578634005815" />
+    <state width="1322" height="327" key="GridCell.Tab.0.center" timestamp="1578634005815">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1322" height="327" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1578634005815" />
+    <state width="1322" height="327" key="GridCell.Tab.0.left" timestamp="1578634005815">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1322" height="327" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1578634005815" />
+    <state width="1322" height="327" key="GridCell.Tab.0.right" timestamp="1578634005815">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1322" height="327" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1578634005815" />
+    <state x="163" y="0" key="SettingsEditor" timestamp="1578625869688">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="163" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1578625869688" />
+    <state x="275" y="99" key="Vcs.Push.Dialog.v2" timestamp="1578634184943">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="99" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1578634184943" />
+    <state x="376" y="165" key="git4idea.merge.GitPullDialog" timestamp="1578623340883">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="376" y="165" key="git4idea.merge.GitPullDialog/0.0.1366.728@0.0.1366.728" timestamp="1578623340883" />
+    <state x="-5" y="85" width="1366" height="587" key="new project wizard" timestamp="1578476855443">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="-5" y="85" width="1366" height="587" key="new project wizard/0.0.1366.728@0.0.1366.728" timestamp="1578476855443" />
+
   </component>
 </project>
