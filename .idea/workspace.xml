@@ -2,67 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4d69b485-5830-45e8-a531-71f669dc3f24" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eureka-server/target/classes/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eureka-server/target/classes/com/dlsp/eurekaserver/EurekaServerApplication.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springcloud-server/target/classes/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springcloud-server/target/classes/com/dlsp/springcloud_server/SpringcloudServerApplication.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springcloud-server/target/classes/com/dlsp/springcloud_server/controller/ServerController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springcloud-server/target/classes/com/dlsp/springcloud_server/mapper/Empmapper.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springcloud-server/target/classes/com/dlsp/springcloud_server/pojo/Employee.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springcloud-server/target/classes/com/dlsp/springcloud_server/service/Empservice.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springcloud_consumer/target/classes/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springcloud_consumer/target/classes/com/dlsp/springcloud_consumer/SpringcloudConsumerApplication.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springcloud_consumer/target/classes/com/dlsp/springcloud_consumer/controller/ConsumerController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springcloud_consumer/target/classes/com/dlsp/springcloud_consumer/pojo/Employee.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springcloud_consumer/target/classes/com/dlsp/springcloud_consumer/service/EmpService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/video-server/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/video-server/src/main/java/com/dlsp/VideoServerApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/video-server/src/main/java/com/dlsp/config/FileUploadProperties.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/video-server/src/main/java/com/dlsp/config/MyMvcConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/video-server/src/main/java/com/dlsp/controller/TestController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/video-server/src/main/java/com/dlsp/controller/VideoController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/video-server/src/main/java/com/dlsp/mapper/VideoMapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/video-server/src/main/java/com/dlsp/pojo/Video.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/video-server/src/main/java/com/dlsp/service/VideoService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/video-server/src/main/java/com/dlsp/service/VideoServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/video-server/src/main/java/com/dlsp/util/FileUploadFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/video-server/src/main/resources/application.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/video-server/src/main/resources/templates/addVideo.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/video-server/src/main/resources/templates/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/video-server/src/test/java/com/dlsp/VideoServerApplicationTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/video-server/target/classes/META-INF/spring-configuration-metadata.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/video-server/target/classes/META-INF/video-server.kotlin_module" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/video-server/target/classes/application.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/video-server/target/classes/com/dlsp/VideoServerApplication.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/video-server/target/classes/com/dlsp/config/FileUploadProperties.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/video-server/target/classes/com/dlsp/config/MyMvcConfig.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/video-server/target/classes/com/dlsp/controller/TestController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/video-server/target/classes/com/dlsp/controller/VideoController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/video-server/target/classes/com/dlsp/mapper/VideoMapper.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/video-server/target/classes/com/dlsp/pojo/Video.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/video-server/target/classes/com/dlsp/service/VideoService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/video-server/target/classes/com/dlsp/service/VideoServiceImpl.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/video-server/target/classes/com/dlsp/util/FileUploadFactory.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/video-server/target/classes/templates/addVideo.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/video-server/target/classes/templates/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/video-server/target/test-classes/com/dlsp/VideoServerApplicationTests.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/video_server/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/video_server/src/main/java/com/dlsp/VideoServerApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/video_server/src/main/java/com/dlsp/controller/TestController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/video_server/src/main/resources/application.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/video_server/src/test/java/com/dlsp/VedioServerApplicationTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/video_server/target/classes/META-INF/video_server.kotlin_module" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/video_server/target/classes/com/dlsp/VideoServerApplication.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/video_server/target/classes/com/dlsp/controller/TestController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/video_server/target/test-classes/com/dlsp/VedioServerApplicationTests.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/eureka-server/src/main/java/com/dlsp/eurekaserver/EurekaServerApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/eureka-server/src/main/java/com/dlsp/eurekaserver/EurekaServerApplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/eureka-server/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/eureka-server/src/main/resources/application.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/springcloud-server/src/main/java/com/dlsp/springcloud_server/service/Empservice.java" beforeDir="false" afterPath="$PROJECT_DIR$/springcloud-server/src/main/java/com/dlsp/springcloud_server/service/Empservice.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -242,8 +182,30 @@
       <workItem from="1578617709586" duration="1068000" />
       <workItem from="1578619133507" duration="302000" />
       <workItem from="1578620259802" duration="63000" />
-      <workItem from="1578620333914" duration="2838000" />
+      <workItem from="1578620333914" duration="3828000" />
     </task>
+    <task id="LOCAL-00001" summary="sun20200110">
+      <created>1578634691896</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1578634691896</updated>
+    </task>
+    <task id="LOCAL-00002" summary="sun20200110">
+      <created>1578634940082</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1578634940082</updated>
+    </task>
+    <task id="LOCAL-00003" summary="sun20200110">
+      <created>1578634983780</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1578634983780</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -251,6 +213,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="sun20200110" />
+    <option name="LAST_COMMIT_MESSAGE" value="sun20200110" />
   </component>
   <component name="WindowStateProjectService">
     <state x="361" y="71" key="#Project_Structure" timestamp="1578467799001">
@@ -265,10 +229,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="891" y="162" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1578463993730" />
-    <state x="263" y="2" key="CommitChangelistDialog2" timestamp="1578634547531">
+    <state x="263" y="2" key="CommitChangelistDialog2" timestamp="1578634983049">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="263" y="2" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1578634547531" />
+    <state x="263" y="2" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1578634983049" />
     <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1578620429863">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -305,18 +269,18 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state width="1493" height="183" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1578557850334" />
-    <state x="274" y="158" key="Vcs.Push.Dialog.v2" timestamp="1578634492797">
+    <state x="274" y="158" key="Vcs.Push.Dialog.v2" timestamp="1578635563736">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="274" y="158" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1578634492797" />
+    <state x="274" y="158" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1578635563736" />
     <state x="621" y="16" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1578383022975">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="621" y="16" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1536.824@0.0.1536.824" timestamp="1578383022975" />
-    <state x="459" y="203" key="git4idea.merge.GitPullDialog" timestamp="1578624745731">
+    <state x="459" y="203" key="git4idea.merge.GitPullDialog" timestamp="1578634916574">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="459" y="203" key="git4idea.merge.GitPullDialog/0.0.1536.824@0.0.1536.824" timestamp="1578624745731" />
+    <state x="459" y="203" key="git4idea.merge.GitPullDialog/0.0.1536.824@0.0.1536.824" timestamp="1578634916574" />
     <state x="245" y="123" key="new project wizard" timestamp="1578381607795">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
