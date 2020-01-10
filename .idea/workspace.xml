@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d612ca72-a6c1-4202-92fe-9f326c4eb903" name="Default Changelist" comment="提交测试">
+    <list default="true" id="d612ca72-a6c1-4202-92fe-9f326c4eb903" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -132,7 +132,7 @@
       <workItem from="1578618657814" duration="358000" />
       <workItem from="1578619260289" duration="1110000" />
       <workItem from="1578620783945" duration="100000" />
-      <workItem from="1578620908581" duration="5368000" />
+      <workItem from="1578620908581" duration="5612000" />
     </task>
     <task id="LOCAL-00001" summary="提交测试">
       <created>1578624786185</created>
@@ -141,7 +141,14 @@
       <option name="project" value="LOCAL" />
       <updated>1578624786185</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="提交测试">
+      <created>1578634031471</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1578634031471</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -160,10 +167,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="488" y="71" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1578563142110" />
-    <state x="244" y="0" key="CommitChangelistDialog2" timestamp="1578624861500">
+    <state x="244" y="0" key="CommitChangelistDialog2" timestamp="1578634030718">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="244" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1578624861500" />
+    <state x="244" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1578634030718" />
     <state x="463" y="121" key="FileChooserDialogImpl" timestamp="1578390663420">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -188,10 +195,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="163" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1578625869688" />
-    <state x="275" y="99" key="Vcs.Push.Dialog.v2" timestamp="1578626645456">
+    <state x="275" y="99" key="Vcs.Push.Dialog.v2" timestamp="1578634184943">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="275" y="99" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1578626645456" />
+    <state x="275" y="99" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1578634184943" />
     <state x="376" y="165" key="git4idea.merge.GitPullDialog" timestamp="1578623340883">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
