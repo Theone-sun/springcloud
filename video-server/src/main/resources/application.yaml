@@ -1,0 +1,31 @@
+server:
+  port: 6061
+spring:
+  application:
+    name: video-server
+  datasource:
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    url: jdbc:mysql://192.168.1.228:3306/tri_oranges?useUnicode=true&characterEncoding=utf8&serverTimezone=UTC
+    username: ssb
+    password: ssb
+    hikari:
+      minimum-idle: 10
+      maximum-pool-size: 20
+  servlet:
+    multipart: #配置上传文件大小限制
+      max-file-size: 30Mb
+      max-request-size: 100Mb
+#配置mybatis
+mybatis:
+  type-aliases-package: com.dlsp.pojo
+eureka:
+  client:
+    service-url: # EurekaServer地址
+      defaultZone: http://127.0.0.1:10086/eureka
+    register-with-eureka: true
+  instance:
+    prefer-ip-address: true # 当调用getHostname获取实例的hostname时，返回ip而不是host名称
+    ip-address: 127.0.0.1 # 指定自己的ip信息，不指定的话会自己寻找
+file:
+  staticAccessPath: /pic/**
+  uploadFolder: D:\\test

@@ -1,0 +1,329 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4d69b485-5830-45e8-a531-71f669dc3f24" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eureka-server/target/classes/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eureka-server/target/classes/com/dlsp/eurekaserver/EurekaServerApplication.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springcloud-server/target/classes/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springcloud-server/target/classes/com/dlsp/springcloud_server/SpringcloudServerApplication.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springcloud-server/target/classes/com/dlsp/springcloud_server/controller/ServerController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springcloud-server/target/classes/com/dlsp/springcloud_server/mapper/Empmapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springcloud-server/target/classes/com/dlsp/springcloud_server/pojo/Employee.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springcloud-server/target/classes/com/dlsp/springcloud_server/service/Empservice.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springcloud_consumer/target/classes/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springcloud_consumer/target/classes/com/dlsp/springcloud_consumer/SpringcloudConsumerApplication.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springcloud_consumer/target/classes/com/dlsp/springcloud_consumer/controller/ConsumerController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springcloud_consumer/target/classes/com/dlsp/springcloud_consumer/pojo/Employee.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springcloud_consumer/target/classes/com/dlsp/springcloud_consumer/service/EmpService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/video-server/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/video-server/src/main/java/com/dlsp/VideoServerApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/video-server/src/main/java/com/dlsp/config/FileUploadProperties.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/video-server/src/main/java/com/dlsp/config/MyMvcConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/video-server/src/main/java/com/dlsp/controller/TestController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/video-server/src/main/java/com/dlsp/controller/VideoController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/video-server/src/main/java/com/dlsp/mapper/VideoMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/video-server/src/main/java/com/dlsp/pojo/Video.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/video-server/src/main/java/com/dlsp/service/VideoService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/video-server/src/main/java/com/dlsp/service/VideoServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/video-server/src/main/java/com/dlsp/util/FileUploadFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/video-server/src/main/resources/application.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/video-server/src/main/resources/templates/addVideo.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/video-server/src/main/resources/templates/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/video-server/src/test/java/com/dlsp/VideoServerApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/video-server/target/classes/META-INF/spring-configuration-metadata.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/video-server/target/classes/META-INF/video-server.kotlin_module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/video-server/target/classes/application.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/video-server/target/classes/com/dlsp/VideoServerApplication.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/video-server/target/classes/com/dlsp/config/FileUploadProperties.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/video-server/target/classes/com/dlsp/config/MyMvcConfig.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/video-server/target/classes/com/dlsp/controller/TestController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/video-server/target/classes/com/dlsp/controller/VideoController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/video-server/target/classes/com/dlsp/mapper/VideoMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/video-server/target/classes/com/dlsp/pojo/Video.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/video-server/target/classes/com/dlsp/service/VideoService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/video-server/target/classes/com/dlsp/service/VideoServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/video-server/target/classes/com/dlsp/util/FileUploadFactory.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/video-server/target/classes/templates/addVideo.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/video-server/target/classes/templates/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/video-server/target/test-classes/com/dlsp/VideoServerApplicationTests.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/video_server/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/video_server/src/main/java/com/dlsp/VideoServerApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/video_server/src/main/java/com/dlsp/controller/TestController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/video_server/src/main/resources/application.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/video_server/src/test/java/com/dlsp/VedioServerApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/video_server/target/classes/META-INF/video_server.kotlin_module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/video_server/target/classes/com/dlsp/VideoServerApplication.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/video_server/target/classes/com/dlsp/controller/TestController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/video_server/target/test-classes/com/dlsp/VedioServerApplicationTests.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eureka-server/src/main/java/com/dlsp/eurekaserver/EurekaServerApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/eureka-server/src/main/java/com/dlsp/eurekaserver/EurekaServerApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eureka-server/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/eureka-server/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springcloud-server/src/main/java/com/dlsp/springcloud_server/service/Empservice.java" beforeDir="false" afterPath="$PROJECT_DIR$/springcloud-server/src/main/java/com/dlsp/springcloud_server/service/Empservice.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="PUSH_TAGS">
+      <GitPushTagMode>
+        <option name="argument" value="--tags" />
+        <option name="title" value="All" />
+      </GitPushTagMode>
+    </option>
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1W3RDCLA7VE95Xp7WevWH6sMnwa" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../emp_system" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\LIFE\Training\ideaDATA\springcloud_first\video-server\src\main\java\com\dlsp\util" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Spring Boot.VideoServerApplication (1)">
+    <configuration name="EurekaServerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="eureka-server" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.dlsp.eurekaserver.EurekaServerApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringcloudConsumerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="springcloud_consumer" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.dlsp.springcloud_consumer.SpringcloudConsumerApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringcloudServerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="springcloud-server" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.dlsp.springcloud_server.SpringcloudServerApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="VedioServerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="video_server" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.dlsp.VedioServerApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="VideoServerApplication (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="video-server" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.dlsp.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.dlsp.VideoServerApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="VideoServerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="video_server" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.dlsp.service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.dlsp.VideoServerApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="VideoServerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="video-server" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.dlsp.service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.dlsp.VideoServerApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.VideoServerApplication (1)" />
+        <item itemvalue="Spring Boot.VideoServerApplication" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4d69b485-5830-45e8-a531-71f669dc3f24" name="Default Changelist" comment="" />
+      <created>1578376169911</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1578376169911</updated>
+      <workItem from="1578376171172" duration="3587000" />
+      <workItem from="1578379893141" duration="15086000" />
+      <workItem from="1578446690477" duration="3367000" />
+      <workItem from="1578463881144" duration="351000" />
+      <workItem from="1578467788504" duration="3908000" />
+      <workItem from="1578480240172" duration="1014000" />
+      <workItem from="1578533221670" duration="4661000" />
+      <workItem from="1578617709586" duration="1068000" />
+      <workItem from="1578619133507" duration="302000" />
+      <workItem from="1578620259802" duration="63000" />
+      <workItem from="1578620333914" duration="2838000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="361" y="71" key="#Project_Structure" timestamp="1578467799001">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="71" key="#Project_Structure/0.0.1536.824@0.0.1536.824" timestamp="1578467799001" />
+    <state x="223" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1578481006745">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="223" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1578481006745" />
+    <state x="891" y="162" key="#com.intellij.ide.util.MemberChooser" timestamp="1578463993730">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="891" y="162" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1578463993730" />
+    <state x="263" y="2" key="CommitChangelistDialog2" timestamp="1578634547531">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="263" y="2" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1578634547531" />
+    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1578620429863">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1578620429863" />
+    <state width="1493" height="183" key="GridCell.Tab.0.bottom" timestamp="1578557850334">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="183" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1578557850334" />
+    <state width="1493" height="183" key="GridCell.Tab.0.center" timestamp="1578557850334">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="183" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1578557850334" />
+    <state width="1493" height="183" key="GridCell.Tab.0.left" timestamp="1578557850334">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="183" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1578557850334" />
+    <state width="1493" height="183" key="GridCell.Tab.0.right" timestamp="1578557850334">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="183" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1578557850334" />
+    <state width="1493" height="183" key="GridCell.Tab.1.bottom" timestamp="1578557850334">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="183" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1578557850334" />
+    <state width="1493" height="183" key="GridCell.Tab.1.center" timestamp="1578557850334">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="183" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1578557850334" />
+    <state width="1493" height="183" key="GridCell.Tab.1.left" timestamp="1578557850334">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="183" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1578557850334" />
+    <state width="1493" height="183" key="GridCell.Tab.1.right" timestamp="1578557850334">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="183" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1578557850334" />
+    <state x="274" y="158" key="Vcs.Push.Dialog.v2" timestamp="1578634492797">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="274" y="158" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1578634492797" />
+    <state x="621" y="16" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1578383022975">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="621" y="16" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1536.824@0.0.1536.824" timestamp="1578383022975" />
+    <state x="459" y="203" key="git4idea.merge.GitPullDialog" timestamp="1578624745731">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="459" y="203" key="git4idea.merge.GitPullDialog/0.0.1536.824@0.0.1536.824" timestamp="1578624745731" />
+    <state x="245" y="123" key="new project wizard" timestamp="1578381607795">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="245" y="123" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1578381607795" />
+    <state x="638" y="145" key="search.everywhere.popup" timestamp="1578393697521">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="638" y="145" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1578393697521" />
+  </component>
+</project>

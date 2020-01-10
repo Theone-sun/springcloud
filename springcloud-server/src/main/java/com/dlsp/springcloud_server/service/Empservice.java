@@ -12,5 +12,6 @@ public class Empservice {
 
 public  Employee queryById(Integer id){
     return this.empmapper.selectByPrimaryKey(id);
+
 }
 }
