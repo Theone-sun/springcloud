@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en" xmlns:th="http://www.thymeleaf.org">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+index页面111
+<img height="70px" src="/pic/111.jpg">
+<img height="80px" src="/pic/222.jpg">
+<video controls="controls" src="/pic/testvideo.mp4"></video>
+<div>
+    视频id:<span th:text="${video.vid }"></span><br/>
+    所属产品id:<span th:text="${video.pid }"></span><br/>
+    视频名称:<span th:text="${video.vname }"></span><br/>
+    上传日期:<span th:text="${video.vdate }"></span><br/>
+    <video height="200px" controls="controls"th:src="'/pic/'+${video.vaddress}"></video>
+</div>
+</body>
+</html>
