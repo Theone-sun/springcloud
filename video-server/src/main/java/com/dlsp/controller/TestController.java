@@ -14,7 +14,7 @@ public class TestController {
     @ResponseBody
     public String totest(){
 
-        return "hello tri-orange";
+        return "hello tri-orange 2020";
     }
 
     @RequestMapping("/toindex")
